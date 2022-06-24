@@ -23,12 +23,13 @@
 
 ### Languages and Tools:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piratax007&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
+<!---<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 <br />
-<br />
+<br />--->
 ### Softwares:
 
 <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
@@ -36,16 +37,6 @@
 
 <br />
 <br />
-
----
-
-
-
-### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31ag2qttxiuta4gsc4crb6c6dqde)
-<br/>
----
 
 [![Fausto's github stats](https://github-readme-stats.vercel.app/api?username=piratax007&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
