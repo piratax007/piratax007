@@ -14,9 +14,10 @@
 <br />
 <br />
 
-<!--- ### 📕 Latest Blog Post --->
+### 📕 Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [The importance of metadata][0]
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
@@ -37,3 +38,4 @@
 
 [![Fausto's github stats](https://github-readme-stats.vercel.app/api?username=piratax007&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
+[0]: https://autonomia.digital/2022/01/22/the-importance-of-metadata.html
