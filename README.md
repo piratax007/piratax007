@@ -22,7 +22,7 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piratax007&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piratax007&show_icons=true&language_count=10&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Tools:
