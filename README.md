@@ -1,14 +1,7 @@
-### Hi there 👋
-<img src="https://github.com/piratax007/piratax007/blob/main/GitHub_Back.png">
-<br/>
-<br/>
-
-## :metal: I'm Fausto M. Lagos S.!
+# :metal: I'm Fausto M. Lagos S.!
+<p>I am a mathematician with an MSc in Computer Engineering and Mathematics. I have developed studies in applied mathematics through the modelling, simulation and description of natural and social phenomena. In my last position, I worked as a software developer in Ola Bini's organization Centro de Autonomía Digital in Quito, Ecuador. I'm a PhD candidate in the Robotics and AI group from the Luleå University of Technology.</p>
 
 <a href="https://www.linkedin.com/in/fausto-mauricio-lagos-suarez-5924a5219/" target="_blank"><img align="left" alt="Fausto M. Lagos S. | LinkedIn" width="22px" src="https://github.com/piratax007/piratax007/blob/main/linkedin.svg" />
-<a href="https://twitter.com/piratax007" target="_blank"><img align="left" alt="Piratax007 | Twitter" width="22px" src="https://github.com/piratax007/piratax007/blob/main/twitter.svg" />
-<a href="https://youtube.com/c/brainontube" target="_blank"><img align="left" alt="BrainOnTube | Twitter" width="28px" src="https://github.com/piratax007/piratax007/blob/main/youtube-icon-415907402" />
-<!---<a href="https://dev.to/aakarshb" target="_blank"><img align="left" alt="dev to aakarsh" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>--->
 
 <br />
 <br />
@@ -32,10 +25,11 @@
   <a href="https://www.jetbrains.com/go/" target="_blank"> <img align="left" alt="Goland" width="26px" src="https://github.com/piratax007/piratax007/blob/main/goland.png"/> </a>
 <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Blender" width="26px" src="https://github.com/piratax007/piratax007/blob/main/blender.png"/> </a>
 
-
 <br />
 <br />
 
 [![Fausto's github stats](https://github-readme-stats.vercel.app/api?username=piratax007&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github.com/piratax007/piratax007/blob/main/GitHub_Back.png">
 
 [0]: https://autonomia.digital/2022/01/22/the-importance-of-metadata.html
